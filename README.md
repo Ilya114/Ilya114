@@ -3,7 +3,6 @@
 - My devices: Xiaomi POCO X3 Pro, Xiaomi Redmi Note 8, Lenovo Ideapad 15 (Ryzen 5 4500U, 8/512)
 - I am currently learning HTML, I also want to learn C++ or C#
 - I know Ukrainian, Russian and partially English
-- [My Telegram](https://t.me/Ilya114UA)
 
 ### Glory to Ukraine!
 
@@ -12,5 +11,4 @@
 
 ### My current active repositores:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Ilya114&repo=lxc_vayu&theme=dark)](https://github.com/Ilya114/lxc_vayu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Ilya114&repo=Box64Droid&theme=dark)](https://github.com/Ilya114/Box64Droid)
