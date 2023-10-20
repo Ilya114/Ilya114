@@ -2,7 +2,7 @@
 
 - My devices: Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128), Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64), Lenovo IdeaPad 15 15ARE05 (Ryzen 5 4500U, 8/512)
 - I know Ukrainian, Russian and partially English
-- Telegram: https://t.me/@Ilya114UA
+- Telegram: https://t.me/Ilya114UA
 - Discord: ilya114
 
 ### Glory to Ukraine!
