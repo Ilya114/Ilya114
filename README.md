@@ -1,6 +1,9 @@
 ### Hi, I'm Ilya114, 13 year old guy from Lysychansk, Luhansk region of Ukraine 
 
-- My devices: ~~Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128)~~ Phone died at 10 December of 2023, Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64), Lenovo IdeaPad 15 15ARE05 (Ryzen 5 4500U, 8/512)
+- My devices:
+  - ~~Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128) - from 18 December of 2021~~ Phone died at 10 December of 2023
+  - Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64) - from 14 December of 2019 - main phone
+  - Lenovo IdeaPad 15 15ARE05 (AMD Ryzen 5 4500U, 8/512) - from 12 September of 2021 - main laptop
 - I know Ukrainian, Russian and partially English
 - Telegram: https://t.me/Ilya114UA
 - Discord: ilya114
