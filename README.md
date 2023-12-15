@@ -1,4 +1,4 @@
-### Hi, I'm Ilya114, 13 year old guy from Lysychansk, Luhansk region of Ukraine 
+### Hi, I'm Ilya114, 14 year old guy from Lysychansk, Luhansk region of Ukraine 
 
 - My devices:
   - ~~Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128) - from 18 December of 2021~~ Phone died at 10 December of 2023
