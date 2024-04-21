@@ -2,9 +2,9 @@
 
 - My devices:
   - ~~Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128) - from 18 December of 2021~~ Phone died at 10 December of 2023
-  - iPhone 8 (64 GB) - main phone
+  - iPhone 8 (64 GB) - from 19 April of 2024, main phone
   - Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64) - from 14 December of 2019
-  - Lenovo IdeaPad 15 15ARE05 (AMD Ryzen 5 4500U, 8/512) - from 12 September of 2021 - main laptop
+  - Lenovo IdeaPad 15 15ARE05 (AMD Ryzen 5 4500U, 8/512) - from 12 September of 2021, main laptop
   - Xiaomi QCY H2 Pro Bluetooth headphones - from 14 December of 2023
 - I know Ukrainian, Russian and partially English
 - Telegram: https://t.me/Ilya114UA
