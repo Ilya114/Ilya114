@@ -7,7 +7,7 @@
   - Lenovo IdeaPad 15 15ARE05 (AMD Ryzen 5 4500U, 8/512) - from 12 September of 2021, main laptop
   - Xiaomi QCY H2 Pro (Bluetooth headphones) - from 14 December of 2023
 - I know Ukrainian, Russian and partially English
-- Telegram: https://t.me/Ilya114UA
+- To contact me in Telegram join to my chat: https://t.me/box64droidchat
 - Discord: ilya114
 
 ### Glory to Ukraine!
