@@ -8,7 +8,6 @@
   - Xiaomi QCY H2 Pro (Bluetooth headphones) - from 14 December of 2023
   - PC (i3-9100F, GTX 1050 Ti, 8 GB RAM) - from November of 2024
 - I know Ukrainian, Russian and partially English
-- To contact me in Telegram join to my chat: https://t.me/box64droidchat
 - Discord: ilya114
 
 ### Glory to Ukraine!
