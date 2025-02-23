@@ -5,7 +5,7 @@
 
 ### My devices:
 - Apple iPhone 8 (main phone, 64 GB, black, non original display, OS iOS 14.3)
-- Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64, blue, OS Android 11 MIUI 12.5.12 EU) - from 14 December of 2019, broken IMEI's
+- Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64, blue, OS Android 15 Project Matrixx) - from 14 December of 2019, broken IMEI's (call's/mobile data works)
 - Xiaomi QCY H2 Pro (Bluetooth headphones) - from 14 December of 2023
 - PC (i3-9100F, GTX 1050 Ti, 8 GB RAM, 500 GB HDD, OS Windows 10 Enterprise LTSC 21H1 and macOS Ventura) - from November of 2024
 
