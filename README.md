@@ -4,10 +4,10 @@
 - Discord: ilya114
 
 ### My devices:
-- Apple iPhone 8 (main phone, 64 GB, black, non original display, OS iOS 14.3)
-- Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64, blue, OS Android 15 Project Matrixx) - from 14 December of 2019, broken IMEI's (call's/mobile data works)
+- Apple iPhone 8 (main phone, 64 GB, black, non original display, OS iOS 16.7.10)
+- Xiaomi Redmi Note 8 (Qualcomm Snapdragon 665, 4/64, blue, OS Android 10 Lineage OS 17.1) - from 14 December of 2019, broken IMEI's (call's/mobile data works)
 - Xiaomi QCY H2 Pro (Bluetooth headphones) - from 14 December of 2023
-- PC (i3-9100F, GTX 1050 Ti, 8 GB RAM, 500 GB HDD, OS Windows 10 Enterprise LTSC 21H1 and macOS Ventura) - from November of 2024
+- PC (i3-9100F, GTX 1050 Ti, 8 GB RAM, 500 GB HDD, OS Arch Linux with KDE Plasma) - from November of 2024
 
 ### My previous devices:
 - Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128) - from 18 December of 2021 to mid of December of 2023 (phone died at 10 December of 2023 and was sold by ~27$)
