@@ -7,7 +7,7 @@
 - Xiaomi 11T (8/256, gray, OS HyperOS 1) - main phone from 4 October of 2025
 - Apple iPhone 8 (64 GB, black, non-original display, OS iOS 14.3) - main phone from 18 April 2024 to 4 October 2025
 - Xiaomi QCY H2 Pro (Bluetooth headphones) - from 14 December of 2023
-- PC (i3-9100F, GTX 1050 Ti, 16 GB RAM, 120 GB SSD & 500 GB HDD, OS Arch Linux with KDE Plasma) - from November of 2024
+- PC (i3-9100F, GTX 1050 Ti, 16 GB RAM, 120+480 GB SSD's and 500 GB HDD), OS Arch Linux with KDE Plasma) - from November of 2024
 
 ### My previous devices:
 - Xiaomi POCO X3 Pro (Qualcomm Snapdragon 860, 6/128) - from 18 December of 2021 to mid of December of 2023 (phone died at 10 December of 2023 and was sold by ~27$)
